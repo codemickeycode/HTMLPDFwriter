@@ -1,6 +1,6 @@
 HTMLPDFwriter
 =========
-Trying out PyFPDF
+Trying out PyFPDF...
 
 
 Purpose:
