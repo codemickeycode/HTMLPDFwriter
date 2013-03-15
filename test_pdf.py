@@ -18,7 +18,7 @@ class MyPDF(pyfpdf.FPDF):
         # set the font for the header, B=Bold
         self.set_font("Arial", style="B", size=15)
         # page title
-        self.cell(40,10, "EPFC", border=1, ln=0, align="C")
+        self.cell(40,10, "Test Title", border=1, ln=0, align="C")
         # insert a line break of 20 pixels
         self.ln(20)
  
